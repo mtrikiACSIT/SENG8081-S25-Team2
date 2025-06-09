@@ -1,16 +1,22 @@
 # SENG8081-S25-Team2
 
-Project Contributors
+# Project Contributors
 
 1. Veera Rani
 2. Nandhakumar Balaji
 3. Isha Patel
 4. Yesha Panchal
 
-Project Title
+# Project Title
 
-Amazon Product Reviews
+Netflix Movies and TV shows till 2025
 
-Project Objective:
+# Project Objective:
 
-The objective of collecting Amazon product reviews is to understand customer experiences, opinions, and satisfaction levels deeply. Businesses and researchers can identify product strengths and weaknesses, common issues, and customer preferences by analyzing these reviews. This data is useful for improving product quality, enhancing customer service, guiding marketing strategies, and even training machine learning models for tasks like sentiment analysis or recommendation systems.
+This dataset contains information on Netflix movies and TV shows, sourced from TMDb (The Movie Database). It includes details such as titles, genres, release dates, ratings, descriptions, and other relevant metadata. The dataset has been curated to provide a comprehensive overview of Netflix's content library, making it useful for data analysis, recommendation systems, and trend exploration.
+
+# Data Collection & Processing:
+
+Source: TMDb (The Movie Database)
+Transformations: The data has been cleaned, formatted, and filtered to ensure consistency and usability. Duplicate or irrelevant entries were removed, and missing values were handled appropriately.
+Potential Uses: Content analysis, trend discovery, machine learning models for recommendation systems, and more
