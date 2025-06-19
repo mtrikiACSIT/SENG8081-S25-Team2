@@ -21,6 +21,6 @@ Source: TMDb (The Movie Database)
 Transformations: The data has been cleaned, formatted, and filtered to ensure consistency and usability. Duplicate or irrelevant entries were removed, and missing values were handled appropriately.
 Potential Uses: Content analysis, trend discovery, machine learning models for recommendation systems, and more
 
-#Sources
+# Sources
 https://www.kaggle.com/datasets/bhargavchirumamilla/netflix-movies-and-tv-shows-till-2025
 
